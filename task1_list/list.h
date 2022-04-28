@@ -1,4 +1,4 @@
-#pragma once
+#pragma once \\Directive which ensures the file is only included once within a single compilation
 #ifndef LIST_H
 #define LIST_H
 
